@@ -6,6 +6,10 @@
 
 The primary objective of this project is to predict the price of Airbnb listings based on various attributes. This predictive model serves as a valuable tool for hosts to set competitive prices, aiding in better decision-making. Additionally, guests can benefit from the analysis and predictions, aligning their expectations with actual pricing. The target variable for this project is the 'price' of the Airbnb rental.
 
+## Presentation 👨🏻‍🏫
+You can access the presentation: [HERE](https://view.genial.ly/656371d42073a000112c7795/presentation-predicting-airbnb-prices-with-machine-learning)
+
+
 ## Data Overview 🔍
 
 ### The Data
